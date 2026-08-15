@@ -1,4 +1,4 @@
-# Password_calculator
+# Password_generator
 This project is a simple Python password generator that creates passwords using lower, upper alphabets and digits and special characters.
 
 # Project Structure
