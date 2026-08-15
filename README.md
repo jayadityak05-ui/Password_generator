@@ -16,16 +16,16 @@ This file handles user input. Also it provides the choice of using special chara
 # What I Learned
 This project was created to practice fundamental Python concepts, including:
 
->Functions and parameters
->return statements
->Loops
->Conditional statements
->User input
->String manipulation
->Python modules and imports
->Using Python's built-in string module
->Random character selection
->Splitting functionality across multiple Python files
+-Functions and parameters
+-return statements
+-Loops
+-Conditional statements
+-User input
+-String manipulation
+-Python modules and imports
+-Using Python's built-in string module
+-Random character selection
+-Splitting functionality across multiple Python files
 
 
 
